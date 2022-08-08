@@ -10,5 +10,5 @@ Face Detection with age, gender and emotion attributes using a pre-trained model
 #### gender_age_emotion.py
 
 - Detects face, gender, age and emotion
-- Fer+ dataset used for emotion detection
+- Fer+ dataset used for emotion detection (https://github.com/microsoft/FERPlus)
 - All pre-trained models are stored in folders
