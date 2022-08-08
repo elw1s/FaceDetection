@@ -5,10 +5,10 @@ Face Detection with age, gender and emotion attributes using a pre-trained model
 
 - Only detects face , gender and age. 
 - No emotion detection
-- RetinaFace-10GF	used
+- RetinaFace-10GF	used (Single model)
 
 #### gender_age_emotion.py
 
 - Detects face, gender, age and emotion
 - Fer+ dataset is used for emotion detection (https://github.com/microsoft/FERPlus)
-- All pre-trained models are stored in folders
+- All pre-trained models are stored in folders (4 different models)
