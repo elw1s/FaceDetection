@@ -1,4 +1,4 @@
-# Face Detection using Insightface
+# Face Detection using Pre-Trained Models
 Face Detection with age, gender and emotion attributes using pre-trained models (Onnx based)
 
 #### gender_age.py
